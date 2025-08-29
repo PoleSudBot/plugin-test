@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: nonebot-plugin-test
+Version: 0.2.1
+Summary: NoneBot tesy
+Author-email: KomoriDev <mute231010@gmail.com>
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: nonebot2>=2.3.2
+
+# plugin-test
+test
+测试测试测试
